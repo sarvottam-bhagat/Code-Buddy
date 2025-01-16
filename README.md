@@ -1,6 +1,6 @@
 # Code-Buddy - AI-Powered Code Modifier
 
-[![Deploy on Render](https://img.shields.io/badge/Deployed%20on-Render-brightgreen)](https://codmod.onrender.com)
+[![Deploy on Render](https://img.shields.io/badge/Deployed%20on-Render-brightgreen)](https://code-buddy-l840.onrender.com)
 
 CodBuddy is an AI-powered web application designed to help developers modify, refine, and execute code seamlessly. With its user-friendly interface, CodMod integrates AI for real-time code modification suggestions and execution, making it a powerful tool for developers.
 
@@ -17,7 +17,7 @@ CodBuddy is an AI-powered web application designed to help developers modify, re
 ---
 
 ## 🌐 **Live Application**
-Access CodMod live at: [https://codmod.onrender.com](https://codmod.onrender.com)
+Access CodMod live at: [https://code-buddy-l840.onrender.com](https://code-buddy-l840.onrender.com)
 
 ---
 

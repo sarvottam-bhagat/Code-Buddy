@@ -49,11 +49,11 @@ Access CodMod live at: [https://code-buddy-l840.onrender.com](https://code-buddy
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/meAmitPatil/codmod.git
+    git clone https://github.com/sarvottam-bhagat/Code-Buddy.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd codmod
+    cd Code-Buddy
     ```
 3. Install dependencies:
     ```bash

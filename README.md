@@ -75,7 +75,7 @@ Access CodMod live at: [https://code-buddy-l840.onrender.com](https://code-buddy
 ---
 
 ## 🛠️ **Deployment**
-CodMod is hosted on Render. For deployment instructions, refer to [Render Documentation](https://render.com/docs).
+Code-Buddy is hosted on Render. For deployment instructions, refer to [Render Documentation](https://render.com/docs).
 
 ---
 
